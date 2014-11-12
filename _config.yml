@@ -1,0 +1,12 @@
+# Site settings
+title: LeoX House
+email: expxiaoli@126.com
+description: "technical note about programming"
+baseurl: ""
+url: "http://expxiaoli.github.io"
+twitter_username: expxiaoli
+github_username:  expxiaoli
+
+# Build settings
+markdown: kramdown
+permalink: pretty
